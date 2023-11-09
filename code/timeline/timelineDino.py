@@ -43,4 +43,4 @@ else:
     image.paste(resized_image, (paste_x, paste_y))
 
 # Save the final image
-image.save(dino_name + "_timline.png")
+image.save(dino_name + "_timeline.png")
