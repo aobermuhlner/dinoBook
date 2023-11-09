@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository for the Dinosaur Encyclopedia, an extensive and scientifically accurate guide through the Mesozoic Era, the age of the dinosaurs. This collaborative effort between **Adrian Obermühlner** and **Sven Leutenegger** aims to produce a detailed book covering the taxonomy of over 160 dinosaur species, their environments throughout the Mesozoic, and the most current and relevant scientific knowledge on these prehistoric creatures.
 
+**Disclaimer:Book is not yet finished!**
+
 ## Authors
 - **Adrian Obermühlner** ([**aobermuhlner**](https://github.com/aobermuhlner))
 - **Sven Leutenegger** ([**Svenson-Maximus**](https://github.com/Svenson-Maximus))
