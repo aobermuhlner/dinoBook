@@ -5,7 +5,7 @@ Welcome to the GitHub repository for the Dinosaur Encyclopedia, an extensive and
 ## Authors
 - **aobermuhlner**
 - **Svenson-Maximus**
-- 
+
 ![Dinosaur Encyclopedia Cover](book_pdf/Cover.jpg)
 
 As enthusiasts of paleontology, we are excited to share our knowledge about the dinosaurs that dominated our planet during the Mesozoic Era.
