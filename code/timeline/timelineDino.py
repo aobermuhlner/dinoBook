@@ -12,12 +12,12 @@ bar_color = (260, 260, 260)  # (255, 0, 0)
 
 ###############################################################################
 
-# Define the start and end years
-start_year = 145
-dino_name = "diplodocus"
+# Define the year
+end_year = 70
+dino_name = "therizinosaurus"
 
 ###############################################################################
-start_x = int(17 - 55 + 8.7 * (252 - start_year))
+start_x = int(17 - 55 + 8.7 * (252 - end_year))
 
 # Load the image to paste
 # Replace with your image file
@@ -43,4 +43,4 @@ else:
     image.paste(resized_image, (paste_x, paste_y))
 
 # Save the final image
-image.save(dino_name + "_timline.png")
+image.save(dino_name + "_timeline.png")
